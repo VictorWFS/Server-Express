@@ -9,7 +9,6 @@ Este projeto é uma API RESTful simples desenvolvida com **Node.js** e **Express
 - Node.js
 - Express.js
 - Postman – para testes de API
-- Nodemon – reinício automático em dev
 - Git
 
 ---
